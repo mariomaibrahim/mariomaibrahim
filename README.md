@@ -4,6 +4,8 @@
 - ![CSS](https://img.shields.io/badge/-CSS3-blue)
 - ![HTML](https://img.shields.io/badge/-HTML5-orange)  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=username.repo)
+![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=social)
 
 
 
