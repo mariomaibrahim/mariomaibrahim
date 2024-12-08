@@ -3,4 +3,6 @@
 - ![HTML](https://img.shields.io/badge/-HTML5-orange)  
 - ![CSS](https://img.shields.io/badge/-CSS3-blue)  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github-light)
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mariomaibrahim&theme=github-light)
