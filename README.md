@@ -3,7 +3,4 @@
 - ![HTML](https://img.shields.io/badge/-HTML5-orange)  
 - ![CSS](https://img.shields.io/badge/-CSS3-blue)  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-
-
-![Welcome GIF](https://raw.githubusercontent.com/mariomaibrahim/About-Me/main/)
-![welcome-gif](https://github.com/user-attachments/assets/8177628c-6231-441b-b10e-10f21000b192)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github-light)
