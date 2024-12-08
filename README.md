@@ -3,7 +3,8 @@
 - ![HTML](https://img.shields.io/badge/-HTML5-orange)  
 - ![CSS](https://img.shields.io/badge/-CSS3-blue)  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- ![python](https://img.shields.io/badge/-Python-white)
+- ![python](https://img.shields.io/badge/-Python-green)
+- ![C++](https://img.shields.io/badge/-C++-red)
 
 
 
