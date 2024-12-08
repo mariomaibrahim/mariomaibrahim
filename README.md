@@ -4,7 +4,7 @@
 - ![CSS](https://img.shields.io/badge/-CSS3-blue)
 - ![HTML](https://img.shields.io/badge/-HTML5-orange)  
 - ![python](https://img.shields.io/badge/-Python-purple)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-navyblue)
 
 
 
