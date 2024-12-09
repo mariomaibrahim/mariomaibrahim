@@ -7,6 +7,8 @@
 ## 🚀 Projects
 - [Deaf and dumb project ](https://www.linkedin.com/posts/mariam-ibrahim-b95743307_aetaecaezaewaehabraepaewaesaeyabraeuaepaetaehaev-activity-7211097604812599296-RlSz?utm_source=share&utm_medium=member_android)
 
+## 📄 CV
+- [Click Here](https://drive.google.com/file/d/1HHUItwLUV5lJwNOfnHknnLGzZwpvoFt8/view?usp=drivesdk)
 
 
 
