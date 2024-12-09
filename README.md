@@ -10,6 +10,11 @@
 ## 📄 CV
 - [Click Here](https://drive.google.com/file/d/1HHUItwLUV5lJwNOfnHknnLGzZwpvoFt8/view?usp=drivesdk)
 
+## GitHub Stats:
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&theme=radical)
+
 
 
 
