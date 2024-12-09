@@ -1,6 +1,6 @@
 ![welcome-gif](https://github.com/user-attachments/assets/a650f514-aacf-4c67-b861-62628e5757c6)
 
-<h1>Hi,I am Maryam Ibrahim</h1> 
+<h1 style aligan=center>Hi,I am Maryam Ibrahim</h1> 
 <p>A student at Borg El Arab Technological University, Information Technology Department, with a great passion for the field of programming and learning from it. 
 I am 19 years old and I have many ambitions that I want to achieve. </p>
 
