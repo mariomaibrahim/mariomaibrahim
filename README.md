@@ -19,7 +19,7 @@ I am 19 years old and I have many ambitions that I want to achieve. </p>
 ## GitHub Stats:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mariomaibrahim=mariomaibrahim&layout=compact&theme=radical)
 
 
 
