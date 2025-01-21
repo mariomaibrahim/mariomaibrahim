@@ -1,5 +1,5 @@
 ![welcome-gif](https://i.gifer.com/Ispx.gif)
-<br>
+<br> <br>
 <h1 align="center">Hi🫡, I'm Mariam Ibrahim</h1> 
 <p align="center">
 Student at Borg El Arab University of Technology, Department of Information Technology. I have a great passion for cybersecurity and strive to be a digital forensic analyst.  </p>
