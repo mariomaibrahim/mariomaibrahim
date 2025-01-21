@@ -22,7 +22,9 @@ Student at Borg El Arab University of Technology, Department of Information Tech
 ## GitHub Stats:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=radical)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mariomaibrahim&theme=dark&hide_border=false)<br/>
+
+![Progress](https://github-readme-streak-stats.herokuapp.com/?user=mariomaibrahim&theme=dark&hide_border=false)<br/>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&theme=radical)
-iomaibrahim&layout=compact&theme=radical)
+
