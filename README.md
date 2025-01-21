@@ -8,7 +8,7 @@ Student at Borg El Arab University of Technology, Department of Information Tech
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a></p>
 <hr>
 
-##🚀 Projects
+<h2>🚀 Projects</h2>
 - [Deaf and dumb project ](https://www.linkedin.com/posts/mariam-ibrahim-b95743307_aetaecaezaewaehabraepaewaesaeyabraeuaepaetaehaev-activity-7211097604812599296-RlSz?utm_source=share&utm_medium=member_android)
 
 ## 📄 CV
