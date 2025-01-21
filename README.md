@@ -22,18 +22,18 @@ Student at Borg El Arab University of Technology, Department of Information Tech
 
 
 <h2>⚡️ Where to Find Me</h2>
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/mariam-ibrahim-b95743307" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p style="display: flex; gap: 15px; justify-content: center; align-items: center;">
+  <a target="_blank" href="https://www.linkedin.com/in/mariam-ibrahim-b95743307" style="color: #0a66c2; font-size: 2rem; text-decoration: none;">
+    <i class="fab fa-linkedin"></i>
   </a>
-  <a target="_blank" href="https://www.instagram.com/mariam.ebrahim55" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a target="_blank" href="https://www.instagram.com/mariam.ebrahim55" style="color: #E4405F; font-size: 2rem; text-decoration: none;">
+    <i class="fab fa-instagram"></i>
   </a>
-  <a target="_blank" href="https://www.behance.net/mariem24" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  <a target="_blank" href="https://www.behance.net/mariem24" style="color: #1769FF; font-size: 2rem; text-decoration: none;">
+    <i class="fab fa-behance"></i>
   </a>
-  <a target="_blank" href="https://www.facebook.com/share/15eVXJCdL9/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a target="_blank" href="https://www.facebook.com/share/15eVXJCdL9/" style="color: #1877F2; font-size: 2rem; text-decoration: none;">
+    <i class="fab fa-facebook"></i>
   </a>
 </p>
 
