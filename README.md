@@ -43,7 +43,7 @@ Student at Borg El Arab University of Technology, Department of Information Tech
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&theme=radical)
 
-<br>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mariomaibrahim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
