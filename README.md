@@ -15,9 +15,6 @@ Student at Borg El Arab University of Technology, Department of Information Tech
   
 - [Foodeiland Website ](https://www.linkedin.com/posts/mariam-ibrahim-b95743307_webdevelopment-collegeprojects-programming-activity-7278684749198471168-P2T0?utm_source=share&utm_medium=member_android12599296-RlSz?utm_source=share&utm_medium=member_android)
 <br>
-
-
-
 ## 📄 CV
 - [Click Here](https://drive.google.com/file/d/11SkAwco3QvSeUy1pL-jBQxHjmFFe7MjU/view?usp=drivesdk)
 
