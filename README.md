@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mar![welcome-gif](https://github.com/user-attachments/assets/a650f514-aacf-4c67-b861-62628e5757c6)
+[welcome-gif](https://github.com/user-attachments/assets/a650f514-aacf-4c67-b861-62628e5757c6)
 
 <h1 align="center">Hi🫡, I'm Mariam Ibrahim</h1> 
 <p align="center">
