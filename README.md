@@ -28,7 +28,7 @@ Student at Borg El Arab University of Technology, Department of Information Tech
   <a target="_blank" href="https://www.behance.net/mariem24" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
-  <a target="_blank" href="https://www.facebook.com/profile.php?id=61568191430617" style="display: inline-block;">
+  <a target="_blank" href="https://www.facebook.com/share/15eVXJCdL9/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
