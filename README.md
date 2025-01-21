@@ -18,7 +18,7 @@ Student at Borg El Arab University of Technology, Department of Information Tech
 
 
 ## 📄 CV
-- [Click Here](https://drive.google.com/file/d/11SkAwco3QvSeUy1pL-jBQxHjmFFe7MjU/view?usp=drivesdk)
+- [Click Here](https://drive.google.com/file/d/1JAURZ9CazEEn1W6aNrOtLv3awVP2A9Du/view?usp=drivesdk)
 
 
 <h2>⚡️ Where to Find Me</h2>
