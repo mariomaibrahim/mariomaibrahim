@@ -24,18 +24,18 @@ Student at Borg El Arab University of Technology, Department of Information Tech
 
 
 <h2>⚡️ Where to Find Me</h2>
-<p style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-  <a target="_blank" href="https://www.linkedin.com/in/mariam-ibrahim-b95743307" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 40px; height: 40px;">
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/mariam-ibrahim-b95743307" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a target="_blank" href="https://www.instagram.com/mariam.ebrahim55" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 40px; height: 40px; border-radius: 10px;">
+  <a target="_blank" href="https://www.instagram.com/mariam.ebrahim55" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a target="_blank" href="https://www.behance.net/mariem24" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Behance_logo_%28vector%29.svg" alt="Behance" style="width: 40px; height: 40px;">
+  <a target="_blank" href="https://www.behance.net/mariem24" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
-  <a target="_blank" href="https://www.facebook.com/share/15eVXJCdL9/" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 40px; height: 40px;">
+  <a target="_blank" href="https://www.facebook.com/share/15eVXJCdL9/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
