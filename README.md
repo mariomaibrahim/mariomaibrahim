@@ -24,18 +24,18 @@ Student at Borg El Arab University of Technology, Department of Information Tech
 
 
 <h2>⚡️ Where to Find Me</h2>
-<p style="display: flex; gap: 15px; justify-content: center; align-items: center;">
-  <a target="_blank" href="https://www.linkedin.com/in/mariam-ibrahim-b95743307" style="color: #0a66c2; font-size: 2rem; text-decoration: none;">
-    <i class="fab fa-linkedin"></i>
+<p style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+  <a target="_blank" href="https://www.linkedin.com/in/mariam-ibrahim-b95743307" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 40px; height: 40px;">
   </a>
-  <a target="_blank" href="https://www.instagram.com/mariam.ebrahim55" style="color: #E4405F; font-size: 2rem; text-decoration: none;">
-    <i class="fab fa-instagram"></i>
+  <a target="_blank" href="https://www.instagram.com/mariam.ebrahim55" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 40px; height: 40px; border-radius: 10px;">
   </a>
-  <a target="_blank" href="https://www.behance.net/mariem24" style="color: #1769FF; font-size: 2rem; text-decoration: none;">
-    <i class="fab fa-behance"></i>
+  <a target="_blank" href="https://www.behance.net/mariem24" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Behance_logo_%28vector%29.svg" alt="Behance" style="width: 40px; height: 40px;">
   </a>
-  <a target="_blank" href="https://www.facebook.com/share/15eVXJCdL9/" style="color: #1877F2; font-size: 2rem; text-decoration: none;">
-    <i class="fab fa-facebook"></i>
+  <a target="_blank" href="https://www.facebook.com/share/15eVXJCdL9/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 40px; height: 40px;">
   </a>
 </p>
 
