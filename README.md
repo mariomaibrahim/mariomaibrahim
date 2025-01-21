@@ -19,12 +19,11 @@ Student at Borg El Arab University of Technology, Department of Information Tech
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/mariam.ebrahim55?igsh=MW9kcDJqb3dzZmpobg==" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.behance.net/https://www.behance.net/mariem24" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a></p>
 
-## GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mariomaibrahim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mariomaibrahim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-![Progress](https://github-readme-streak-stats.herokuapp.com/?user=mariomaibrahim&theme=dark&hide_border=false)<br/>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&theme=radical)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mariomaibrahim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
