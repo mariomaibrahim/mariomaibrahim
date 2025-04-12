@@ -1,7 +1,6 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
 
 ![welcome-gif](https://media0.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952jtz228wqwtg6r73qf9lt18kn6wcej9cym19oitkk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
-<br> 
 
 # <h1>Hello! 🫡 I'm Mariam ✨</h1>, a student at **Borg El Arab University of Technology**, Department of **Information Technology**.  
 I have a deep passion for **Cybersecurity** and a growing interest in **Digital Forensics**. My dream is to become a **Digital Forensic Analyst**, helping uncover the truth behind digital evidence and cyber incidents. 🕵️‍♀️💻
