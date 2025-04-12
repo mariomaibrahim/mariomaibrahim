@@ -2,7 +2,7 @@
 
 ![welcome-gif](https://media0.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952jtz228wqwtg6r73qf9lt18kn6wcej9cym19oitkk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
-# <h1>Hello! 🫡 I'm Mariam ✨</h1>, a student at **Borg El Arab University of Technology**, Department of **Information Technology**.  
+## <h1>Hello! 🫡 I'm Mariam ✨</h1>, a student at **Borg El Arab University of Technology**, Department of **Information Technology**.  
 I have a deep passion for **Cybersecurity** and a growing interest in **Digital Forensics**. My dream is to become a **Digital Forensic Analyst**, helping uncover the truth behind digital evidence and cyber incidents. 🕵️‍♀️💻
 
 ---
@@ -30,7 +30,7 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
 
 ---
 
-<h3 align="left">🧰 Languages and Tools:</h3>
+## <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
