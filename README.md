@@ -1,4 +1,4 @@
-o<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 
 ![welcome-gif](https://media0.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952jtz228wqwtg6r73qf9lt18kn6wcej9cym19oitkk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
@@ -79,6 +79,8 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
 
 ---
 
-> <h4>🛡️ “In DFIR, data never truly dies—it just waits to be discovered."</h4> < 
-  ^ 
+<div style="border:2px solid #4CAF50; padding: 15px; border-radius: 10px; background-color: #f1f1f1; font-family: 'Arial', sans-serif;">
+  <h4 style="text-align: center; color: #4CAF50;">🛡️ “In DFIR, data never truly dies—it just waits to be discovered."</h4>
+</div>
+
 
