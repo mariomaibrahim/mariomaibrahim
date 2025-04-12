@@ -8,6 +8,7 @@ Student at Borg El Arab University of Technology, Department of Information Tech
 <br>
  <h3>🧰 Languages and Tools:</h3>
   <p>
+   <br>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a>
@@ -48,7 +49,33 @@ Student at Borg El Arab University of Technology, Department of Information Tech
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
   </p>
-
+ <h2>🛠️ Skills</h2>
+  <table>
+    <tr>
+      <th>Area</th>
+      <th>Skills & Tools</th>
+    </tr>
+    <tr>
+      <td>Cybersecurity</td>
+      <td>Vulnerability Assessment, Forensics, SOC Basics</td>
+    </tr>
+    <tr>
+      <td>Programming</td>
+      <td>Python, Bash, C++</td>
+    </tr>
+    <tr>
+      <td>Networking</td>
+      <td>TCP/IP, OSI Model, VPN, Firewalls</td>
+    </tr>
+    <tr>
+      <td>Tools & Platforms</td>
+      <td>Kali Linux, Autopsy, Wireshark, Metasploit, FTK</td>
+    </tr>
+    <tr>
+      <td>Soft Skills</td>
+      <td>Analytical Thinking, Detail-Oriented, Teamwork</td>
+    </tr>
+  </table>
 <h2>🚀 Projects</h2>
 
 
