@@ -31,11 +31,11 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
 | Soft Skills        | Analytical Thinking, Detail-Oriented, Teamwork      |
 
 ---
-h2>🚀 Projects</h2>
+<h2>🚀 Projects</h2>
 
 - [Deaf and Dumb Project](https://www.linkedin.com/posts/mariam-ibrahim-b95743307_aetaecaezaewaehabraepaewaesaeyabraeuaepaetaehaev-activity-7211097604812599296-RlSz?utm_source=share&utm_medium=member_android)
 - [Foodeiland Website](https://www.linkedin.com/posts/mariam-ibrahim-b95743307_webdevelopment-collegeprojects-programming-activity-7278684749198471168-P2T0?utm_source=share&utm_medium=member_android12599296-RlSz?utm_source=share&utm_medium=member_android)
-
+<hr>
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
