@@ -80,5 +80,5 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
 ---
 
 <div style="border-left: 5px solid #4CAF50; background-color: #f9f9f9; padding: 15px 20px; font-style: italic; font-size: 1.2em; margin: 20px 0; border-radius: 10px; color: #333;">
-  <h4 style="text-align: center;">🛡️ “In DFIR, data never truly dies—it just waits to be discovered.”</h4>
+  <h3 style="text-align: center;"> “In DFIR, data never truly dies—it just waits to be discovered.”</h3>
 </div>
