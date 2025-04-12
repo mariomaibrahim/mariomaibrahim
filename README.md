@@ -74,23 +74,17 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
   </a>
 </p>
 
- <h2>📊 GitHub Stats:</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mariom&show_icons=true&theme=radical" alt="My GitHub Stats"/>
-  </p>
-
-  <h2>🏆 GitHub Trophies</h2>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mariomaibrahim&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-  </p>
-
-  <hr>
----
+ 
 
 ## 📫 Connect with Me
 
 - 📧 Email: mariamibrahim2355@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/mariam](https://www.linkedin.com/in/mariam-ibrahim-b95743307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
+## 📊 GitHub Stats:
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&theme=radical)
 
 
 ---
