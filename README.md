@@ -88,5 +88,9 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
 - 💻 GitHub: [github.com/yourfriend](https://github.com/yourfriend)  
 
 ---
-
+<h2>📊 GitHub Stats:</h2>
+<p align="center">
+  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=radical)
+</p>
+---
 > 🛡️ “Digital forensics is not just about tools, it’s about asking the right questions.” 
