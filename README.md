@@ -3,7 +3,7 @@
 ![welcome-gif](https://media0.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952jtz228wqwtg6r73qf9lt18kn6wcej9cym19oitkk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 <br> <br>
 
-# <h1>Hello! 🫡 I'm Mariam</h1>, a student at **Borg El Arab University of Technology**, Department of **Information Technology**.  
+# <h1>Hello! 🫡 I'm Mariam ✨</h1>, a student at **Borg El Arab University of Technology**, Department of **Information Technology**.  
 I have a deep passion for **Cybersecurity** and a growing interest in **Digital Forensics**. My dream is to become a **Digital Forensic Analyst**, helping uncover the truth behind digital evidence and cyber incidents. 🕵️‍♀️💻
 
 ---
@@ -74,13 +74,24 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
   </a>
 </p>
 
+ <h2>📊 GitHub Stats:</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mariom&show_icons=true&theme=radical" alt="My GitHub Stats"/>
+  </p>
+
+  <h2>🏆 GitHub Trophies</h2>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mariomaibrahim&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  </p>
+
+  <hr>
 ---
 
 ## 📫 Connect with Me
 
-- 📧 Email: yourfriend@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourfriend](https://linkedin.com/in/yourfriend)  
-- 💻 GitHub: [github.com/yourfriend](https://github.com/yourfriend)  
+- 📧 Email: mariamibrahim2355@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/mariam](https://www.linkedin.com/in/mariam-ibrahim-b95743307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
 
 ---
 
