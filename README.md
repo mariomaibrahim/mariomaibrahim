@@ -31,7 +31,7 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
 
 
 ## <h3 align="left">🧰 Languages and Tools:</h3>
-
+<hr>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -72,9 +72,10 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.cisco.com/c/en/us/solutions/collateral/enterprise-networks/ccna/nb-06-ccna-cert-fig-2019-05.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Cisco_CCNA_logo.svg" alt="ccna" width="40" height="40"/>
+  </a>
 </p>
-
- 
 
 ## 📫 Connect with Me
 
@@ -89,4 +90,4 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
 
 ---
 
-> 🛡️ “Digital forensics is not just about tools, it’s about asking the right questions.” < 
+> 🛡️ “Digital forensics is not just about tools, it’s about asking the right questions.”
