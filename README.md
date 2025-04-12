@@ -1,65 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About Me</title>
-</head>
-<body>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
 
-  <img src="https://media0.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952jtz228wqwtg6r73qf9lt18kn6wcej9cym19oitkk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="welcome-gif" />
-  
-  <br> <br>
-
-  <h1>👩‍💻 About Me</h1>
-  <p>Hello! I'm [Your Friend's Name], a student at <strong>Borg El Arab University of Technology</strong>, Department of <strong>Information Technology</strong>.</p>
-  <p>I have a deep passion for <strong>Cybersecurity</strong> and a growing interest in <strong>Digital Forensics</strong>. My dream is to become a <strong>Digital Forensic Analyst</strong>, helping uncover the truth behind digital evidence and cyber incidents. 🕵️‍♀️💻</p>
-
-  <h2>🧠 Currently Learning</h2>
-  <ul>
-    <li>🔍 Digital Forensics & Evidence Handling</li>
-    <li>🧰 Tools like Autopsy, FTK, Wireshark, Nmap, and Burp Suite</li>
-    <li>💥 Ethical Hacking & Penetration Testing</li>
-    <li>📜 Cryptography & Secure Communication</li>
-    <li>🛡️ Incident Response and Threat Analysis</li>
-    <li>🧑‍💻 Working with Kali Linux and Windows Environments</li>
-  </ul>
-
-  <h2>🛠️ Skills</h2>
-  <table>
-    <tr>
-      <th>Area</th>
-      <th>Skills & Tools</th>
-    </tr>
-    <tr>
-      <td>Cybersecurity</td>
-      <td>Vulnerability Assessment, Forensics, SOC Basics</td>
-    </tr>
-    <tr>
-      <td>Programming</td>
-      <td>Python, Bash, C++</td>
-    </tr>
-    <tr>
-      <td>Networking</td>
-      <td>TCP/IP, OSI Model, VPN, Firewalls</td>
-    </tr>
-    <tr>
-      <td>Tools & Platforms</td>
-      <td>Kali Linux, Autopsy, Wireshark, Metasploit, FTK</td>
-    </tr>
-    <tr>
-      <td>Soft Skills</td>
-      <td>Analytical Thinking, Detail-Oriented, Teamwork</td>
-    </tr>
-  </table>
-
-  <h2>🚀 Projects</h2>
-  <ul>
-    <li><a href="https://www.linkedin.com/posts/mariam-ibrahim-b95743307_aetaecaezaewaehabraepaewaesaeyabraeuaepaetaehaev-activity-7211097604812599296-RlSz?utm_source=share&utm_medium=member_android" target="_blank">Deaf and Dumb Project</a></li>
-    <li><a href="https://www.linkedin.com/posts/mariam-ibrahim-b95743307_webdevelopment-collegeprojects-programming-activity-7278684749198471168-P2T0?utm_source=share&utm_medium=member_android" target="_blank">Foodeiland Website</a></li>
-  </ul>
-
-  <h3>🧰 Languages and Tools:</h3>
+![welcome-gif](https://media0.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952jtz228wqwtg6r73qf9lt18kn6wcej9cym19oitkk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+<br> <br>
+<h1 align="center">Hi🫡, I'm Mariam Ibrahim</h1> 
+<p align="center">
+Student at Borg El Arab University of Technology, Department of Information Technology. I have a great passion for cybersecurity and strive to be a digital forensic analyst.  </p>
+<br>
+ <h3>🧰 Languages and Tools:</h3>
   <p>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -102,27 +49,43 @@
     </a>
   </p>
 
-  <h2>📫 Connect with Me</h2>
-  <ul>
-    <li>Email: <a href="mailto:mariamibrahim23555@gmail.com">mariamibrahim23555@gmail.com</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/mariam-ibrahim-b95743307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">linkedin.com/in/mariam</a></li>
-  </ul>
+<h2>🚀 Projects</h2>
 
-  <h2>📊 GitHub Stats:</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mariom&show_icons=true&theme=radical" alt="My GitHub Stats"/>
-  </p>
 
-  <h2>🏆 GitHub Trophies</h2>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mariomaibrahim&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-  </p>
+- [Deaf and dumb project ](https://www.linkedin.com/posts/mariam-ibrahim-b95743307_aetaecaezaewaehabraepaewaesaeyabraeuaepaetaehaev-activity-7211097604812599296-RlSz?utm_source=share&utm_medium=member_android) <br><br>
+  
+- [Foodeiland Website ](https://www.linkedin.com/posts/mariam-ibrahim-b95743307_webdevelopment-collegeprojects-programming-activity-7278684749198471168-P2T0?utm_source=share&utm_medium=member_android12599296-RlSz?utm_source=share&utm_medium=member_android)
 
-  <hr>
 
-  <footer>
-    <blockquote>🛡️ “Digital forensics is not just about tools, it’s about asking the right questions.”</blockquote>
-  </footer>
+## 📄 CV
+- [Click Here](https://drive.google.com/file/d/1JAURZ9CazEEn1W6aNrOtLv3awVP2A9Du/view?usp=drivesdk)
 
-</body>
-</html>
+
+<h2>⚡️ Where to Find Me</h2>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/mariam-ibrahim-b95743307" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a target="_blank" href="https://www.instagram.com/mariam.ebrahim55" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a target="_blank" href="https://www.behance.net/mariem24" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a target="_blank" href="https://www.facebook.com/share/15eVXJCdL9/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+
+
+## 📊 GitHub Stats:
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&theme=radical)
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mariomaibrahim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
