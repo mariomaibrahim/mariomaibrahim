@@ -79,5 +79,5 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
 
 ---
 
-> <h4>🛡️ “In DFIR, data never truly dies—it just waits to be discovered."</h4>
+ <h4>🛡️ “In DFIR, data never truly dies—it just waits to be discovered."</h4>
 
