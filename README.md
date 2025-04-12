@@ -28,9 +28,10 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
 | Tools & Platforms  | Kali Linux, Autopsy, Wireshark, Metasploit, FTK     |
 | Soft Skills        | Analytical Thinking, Detail-Oriented, Teamwork      |
 
----
+
 
 ## <h3 align="left">🧰 Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
