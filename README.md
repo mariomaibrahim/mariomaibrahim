@@ -83,14 +83,15 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
 
 ## 📫 Connect with Me
 
-- 📧 Email: yourfriend@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourfriend](https://linkedin.com/in/yourfriend)  
-- 💻 GitHub: [github.com/yourfriend](https://github.com/yourfriend)  
+- 📧 Email: mariomaibrahim555@gmail.com
+  
+- 💼 LinkedIn: [linkedin.com/in/yourfriend](https://www.linkedin.com/in/mariam-ibrahim-b95743307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 <h2>📊 GitHub Stats:</h2>
 <p align="center">
-  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=radical)
+  ![My GitHub Stats (https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=radical)
 </p>
+
 ---
 > 🛡️ “Digital forensics is not just about tools, it’s about asking the right questions.” 
