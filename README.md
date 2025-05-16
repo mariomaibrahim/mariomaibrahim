@@ -69,7 +69,7 @@ I have a deep passion for **Cybersecurity** and a growing interest in **Digital 
 
 ## 📫 Connect with Me
 
-- 📧 Email: mariamibrahim2355@gmail.com  
+- 📧 Email: mariamibrahim23555@gmail.com  
 - 💼 LinkedIn:
   [linkedin.com/in/mariam_ibrahim](https://www.linkedin.com/in/mariam-ibrahim-b95743307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
