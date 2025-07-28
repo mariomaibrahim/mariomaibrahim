@@ -92,7 +92,6 @@ I'm still at the beginning of my journey, but I'm building a strong foundation t
 
 - 📧 Email: mariamibrahim23555@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/mariam_ibrahim](https://www.linkedin.com/in/mariam-ibrahim-b95743307)  
-- 🗂️ GitHub: [github.com/mariomaibrahim](https://github.com/mariomaibrahim)
 
 ---
 
