@@ -1,18 +1,12 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hqNGd0ODAxYm5kdW5rbTJpdTExMzUwYm1od2x2OGhka2pvYmx3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
-</p>
+![devops-girl](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hqNGd0ODAxYm5kdW5rbTJpdTExMzUwYm1od2x2OGhka2pvYmx3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-<h1 class="animate__animated animate__fadeIn" align="center" style="color: #00adb5;">Hello! I'm Mariam ✨</h1>
-<p align="center" style="font-size: 1.1em; color: #393e46;">
-I'm a passionate IT student at <strong>Borg El Arab University of Technology</strong>, currently exploring the world of <strong>DevOps</strong>, <strong>Cloud Infrastructure</strong>, and a bit of <strong>Cybersecurity</strong>.
-</p>
+<h1 class="animate__animated animate__fadeIn">Hello! I'm Mariam ✨</h1>
+I'm a passionate IT student at  Borg El Arab University of Technology, currently exploring the world of DevOps, Cloud Infrastructure, and a bit of Cybersecurity.
 
-<p align="center" style="font-size: 1em; color: #222;">
 I'm still at the beginning of my journey, but I'm building a strong foundation through self-learning, practical projects, and curiosity. 🚀
-</p>
 
 ---
 
@@ -52,7 +46,8 @@ I'm still at the beginning of my journey, but I'm building a strong foundation t
 
 ## 💡 Tools & Technologies
 
-<p align="center">
+<p align="left">
+
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -88,23 +83,18 @@ I'm still at the beginning of my journey, but I'm building a strong foundation t
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&theme=radical" width="45%"/>
-</p>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contact Me
 
-<p align="center">
-  <a href="mailto:mariamibrahim23555@gmail.com"><i class="fas fa-envelope"></i> mariamibrahim23555@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/mariam-ibrahim-b95743307" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-</p>
+- 📧 Email: mariamibrahim23555@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/mariam_ibrahim](https://www.linkedin.com/in/mariam-ibrahim-b95743307)  
 
 ---
 
-<blockquote style="border-left: 5px solid #00adb5; background-color: #f0f0f0; padding: 15px 20px; font-style: italic; font-size: 1.2em; margin: 20px 0; border-radius: 10px; color: #333; text-align: center;">
-  "I may be a beginner in DevOps and Cybersecurity, but I'm learning every day—and every command line brings me closer to my goals."
-</blockquote>
+<div style="border-left: 5px solid #00adb5; background-color: #f0f0f0; padding: 15px 20px; font-style: italic; font-size: 1.2em; margin: 20px 0; border-radius: 10px; color: #333;">
+  <h3 style="text-align: center;">"I may be a beginner in DevOps and Cybersecurity, but I'm learning every day—and every command line brings me closer to my goals."</h3>
+</div>
