@@ -1,7 +1,7 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 
-![devops-gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![devops-girl](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hqNGd0ODAxYm5kdW5rbTJpdTExMzUwYm1od2x2OGhka2pvYmx3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 <h1 class="animate__animated animate__fadeIn">Hello! I'm Mariam ✨</h1>
 I'm a passionate IT student at  Borg El Arab University of Technology, currently exploring the world of DevOps, Cloud Infrastructure, and a bit of Cybersecurity.
