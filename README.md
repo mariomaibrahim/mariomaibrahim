@@ -3,7 +3,7 @@
 
 ![devops-gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<h1 class="animate__animated animate__fadeIn">👋Hello! I'm Mariam ✨</h1>
+<h1 class="animate__animated animate__fadeIn">Hello! I'm Mariam ✨</h1>
 I'm a passionate IT student at  Borg El Arab University of Technology, currently exploring the world of DevOps, Cloud Infrastructure, and a bit of Cybersecurity.
 
 I'm still at the beginning of my journey, but I'm building a strong foundation through self-learning, practical projects, and curiosity. 🚀
