@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مريم إبراهيم - مطورة Flutter</title>
-    <style>
-        /* Add hover effect to icons */
-        .social-icons img, .tech-icons img {
-            transition: transform 0.3s ease-in-out;
-        }
-        .social-icons img:hover, .tech-icons img:hover {
-            transform: scale(1.2) rotate(5deg);
-        }
-    </style>
-</head>
-<body style="font-family: 'Cairo', sans-serif; background-color: #f4f7f9;">
+# 🌟 Welcome to My GitHub Profile! 🌟
 
 <!-- Header Wave Animation -->
 <div align="center">
@@ -23,7 +7,7 @@
 
 <!-- Animated Profile Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRzM212b2Z2d2k4d2V2bDN2c3VqY2N6b3pnaWJzZ3p2a3RzZzBqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="100%" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="300"/>
 </div>
 
 <div align="center">
@@ -31,12 +15,13 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRzM212b2Z2d2k4d2V2bDN2c3VqY2N6b3pnaWJzZ3p2a3RzZzBqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="700" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 </div>
 
-<h3 align="center">🌸 مطورة Flutter شغوفة من مصر 🌸</h3>
+<h3 align="center">🌸 A passionate Flutter Developer from Egypt 🌸</h3>
+
 <p align="center" style="font-size: 18px; color: #FF69B4; font-weight: bold;">
-	💫 أنا مفتونة بعالم تطوير تطبيقات الموبايل الجميل! لقد فتح Flutter إمكانيات لا حصر لها لإنشاء تطبيقات مذهلة ومتعددة المنصات.
+	💫 I'm fascinated by the beautiful world of mobile app development! Flutter has opened up endless possibilities for creating stunning, cross-platform applications.
 </p>
  
 <p align="center"> 
@@ -47,113 +32,238 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div align="center" class="tech-icons">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55" />
-</div>
+## 🚀 Quick Overview
 
-<img align="right" alt="Flutter Girl Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRzM212b2Z2d2k4d2V2bDN2c3VqY2N6b3pnaWJzZ3p2a3RzZzBqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif">
-<br>
- 
-- 🎯 أعمل حاليًا على **تطبيقات Flutter جميلة**
-- 🌱 أتعلم حاليًا **Flutter المتقدم وإدارة الحالة**
-- 👨‍💻 جميع مشاريعي متاحة في [ملفي الشخصي](https://github.com/mariomaibrahim)
-- 💬 اسألني عن **Flutter, Dart, UI/UX Design & Mobile Development**
-- 📫 كيفية التواصل معي **mariamibrahim23555@gmail.com**
-- 📄 تعرف على خبراتي **[ملف LinkedIn](https://linkedin.com/in/mariam_ibrahim)**
+<table>
+<tr>
+<td>
 
-<br><br><br>
+**About Me:**
+- 🎯 Working on **Beautiful Flutter Applications**
+- 🌱 Learning **Advanced Flutter & State Management**
+- 👩‍💻 All projects available at [My Portfolio](https://github.com/mariomaibrahim)
+- 💬 Ask me about **Flutter, Dart, UI/UX Design**
+- 📫 Reach me: **mariamibrahim23555@gmail.com**
+- 📄 Experience: [LinkedIn](https://linkedin.com/in/mariam_ibrahim)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</td>
+<td>
 
-<h3 align="left">🌟 تواصل معي:</h3>
-<p align="left" class="social-icons">
-<a href="https://linkedin.com/in/mariam_ibrahim" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
-<a href="mailto:mariamibrahim23555@gmail.com" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40" width="50" /></a>
-<a href="https://github.com/mariomaibrahim" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="50" /></a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">🛠️ اللغات والأدوات:</h3>
+## 💻 Tech Stack & Skills
 
-- **تطوير الموبايل**
-<p align="left" class="tech-icons">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Studio" width="40" height="40"/>
-</p>
-
-- **لغات البرمجة**
-<p align="left" class="tech-icons">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
-
-- **قواعد البيانات والأدوات**
-<p align="left" class="tech-icons">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">📊 إحصائيات GitHub:</h3>
 <div align="center">
- 
-![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariomaibrahim&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=00D9FF&text_color=FFFFFF)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mariomaibrahim&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=00D9FF&fire=FF1493&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
+### 🎨 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF)](https://github.com/mariomaibrahim)
+### 🔧 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,cpp,html,css,js" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,figma" />
+</p>
+
+### 🔥 Additional Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,nodejs,react,photoshop" />
+</p>
 
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">📈 النشاط:</h3>
-
-![Mariam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mariomaibrahim&custom_title=Mariam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF1493&line=00D9FF&point=FFFFFF&area_color=FF1493&title_color=FFFFFF&area=true)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 🐍 ثعبان يأكل مساهماتي
-
-<p align="center">
-	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 💫 فلسفتي في التطوير
+## 🌐 Connect With Me
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRzM212b2Z2d2k4d2V2bDN2c3VqY2N6b3pnaWJzZ3p2a3RzZzBqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="300" />
 
-### ✨ *"برمجة بشغف، تصميم بهدف"* ✨
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariam_ibrahim)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariomaibrahim)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamibrahim23555@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/mariomaibrahim)
 
-**🎨 أؤمن بأن كل تطبيق يجب أن يكون جميلاً وعملياً**
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mariomaibrahim&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=00D9FF&fire=FF1493&currStreakLabel=FFFFFF" alt="Streak Stats"/>
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariomaibrahim&custom_title=Mariam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF1493&line=00D9FF&point=FFFFFF&area_color=FF1493&title_color=FFFFFF&area=true" alt="Activity Graph"/>
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mariomaibrahim&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Animation"/>
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 💫 My Development Philosophy
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" />
+  
+  ### ✨ *"Code with passion, design with purpose"* ✨
+  **🎨 I believe every app should be beautiful and functional**
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400"/>
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 📱 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🎨 **Flutter UI Collection** | Beautiful UI components and screens | Flutter, Dart | ![Active](https://img.shields.io/badge/Status-Active-success) |
+| 📱 **E-Commerce App** | Complete shopping app with payments | Flutter, Firebase | ![Development](https://img.shields.io/badge/Status-In%20Development-yellow) |
+| 🏥 **Healthcare App** | Patient management system | Flutter, MySQL | ![Planning](https://img.shields.io/badge/Status-Planning-blue) |
+| 🎵 **Music Player** | Custom music player with animations | Flutter, Dart | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 📚 Skills & Learning Journey
+
+<div align="center">
+
+```mermaid
+journey
+    title My Flutter Development Journey
+    section Beginner
+      Started Learning Dart: 5: Me
+      First Flutter App: 4: Me
+      UI Components: 3: Me
+    section Intermediate
+      State Management: 4: Me
+      Firebase Integration: 5: Me
+      API Integration: 4: Me
+    section Advanced
+      Custom Animations: 5: Me
+      Performance Optimization: 4: Me
+      Publishing Apps: 5: Me
+```
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 🎯 Current Goals & Future Plans
+
+<table align="center">
+<tr>
+<td align="center">
+
+**🎯 Short Term Goals**
+- ✅ Master Flutter Bloc Pattern
+- 🔄 Learn Flutter Testing
+- 🔄 Build 5 Complete Apps
+- ⏳ Contribute to Open Source
+
+</td>
+<td align="center">
+
+**🚀 Long Term Vision**
+- 🎯 Become Flutter Expert
+- 🌟 Lead Development Teams
+- 📚 Create Flutter Tutorials
+- 🌍 Build Global Impact Apps
+
+</td>
+</tr>
+</table>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 💖 Fun Facts About Me
+
+<div align="center">
+
+🎨 I love creating pixel-perfect UI designs<br>
+☕ Coffee is my coding fuel<br>
+🌸 Pink is my favorite color (obviously!)<br>
+📚 Always learning new technologies<br>
+🎵 I code with music on<br>
+🌙 Night owl developer<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200"/>
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 🎨 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" alt="Dev Quote"/>
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 💌 Let's Build Something Amazing Together!
+
+<div align="center">
+  
+  **Ready to turn your ideas into beautiful Flutter applications?**
+  
+  [![Contact Me](https://img.shields.io/badge/Contact%20Me-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamibrahim23555@gmail.com)
+  [![Hire Me](https://img.shields.io/badge/Hire%20Me-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariam_ibrahim)
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200"/>
+  
 </div>
 
 <!-- Footer Wave Animation -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20,28&height=150&section=footer&text=&fontSize=0" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20,28&height=150&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=24&fontColor=FFFFFF" />
 </div>
 
-</body>
-</html>
+---
+
+<div align="center">
+  
+  **⭐ Don't forget to star my repositories if you find them interesting! ⭐**
+  
+  <img src="https://komarev.com/ghpvc/?username=mariomaibrahim&label=Profile%20Views&color=FF1493&style=flat-square" alt="Profile Views"/>
+  
+</div>
