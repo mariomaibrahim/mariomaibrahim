@@ -1,43 +1,75 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/22/3f/6a/223f6a7e6c41f19c8f7f1d51a2c4f6c4.gif" alt="programmer girl" width="600"/>
-</p>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">  
+
+<h1 align="center" class="animate__animated animate__pulse animate__infinite">  
+  ✨ Hello World! I'm <span style="color:#00adb5;">Mariam</span> ✨  
+</h1>  
+
+<p align="center">  
+  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="250"/>  
+</p>  
 
 ---
 
-## 👩‍💻 About Me  
-🎓 I'm Mariem, an **IT student** passionate about **Flutter Development** and modern technologies.  
-🚀 I love building mobile applications and continuously improving my skills in **software development**.  
-🌍 My dream is to become globally recognized in the tech world through innovation and contribution.  
+## 🚀 About Me  
+
+🎓 I'm an IT student at **Borg El Arab University of Technology**.  
+💙 Currently focusing on **Flutter Development** to build amazing mobile apps.  
+🌱 I'm still a beginner, but I'm learning every day with passion and curiosity.  
+✨ My dream is to become a professional Flutter Developer and publish my first real-world apps soon!  
 
 ---
 
-## 🛠️ Skills  
+## 🌸 Currently Learning  
 
-| Languages / Tools |
-|-------------------|
-| <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,python,php,java,cpp,sqlite,linux,git,github" width="600"/> |
+- 📱 **Flutter Framework** (Widgets, State Management, UI/UX)  
+- 🎯 **Dart Programming Language**  
+- 🛠️ **Android Studio**  
+- 🐍 Improving problem-solving with **Python**  
+- 💡 Strengthening fundamentals with **C++ & SQL**  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>  
+</p>  
 
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak" height="160"/>
-</p>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariam&show_icons=true&theme=tokyonight" alt="Mariam GitHub stats"/>  
+</p>  
+
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam&theme=radical" alt="streak"/>  
+</p>  
 
 ---
 
-## 🐍 Activity Graph  
+## 🎨 Fun Quote  
 
-<p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+<div style="border-left: 5px solid #ff6b6b; background: linear-gradient(135deg,#f9f9f9,#ffecec); padding: 15px 20px; font-style: italic; font-size: 1.2em; margin: 20px 0; border-radius: 10px; color: #333;">  
+  <h3 align="center">"Every Flutter widget I learn brings me one step closer to building something magical ✨"</h3>  
+</div>  
 
 ---
 
-## 💌 Connect With Me  
-📧 Email: **yourmail@example.com**  
-💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  <h3 style="text-align: center;">"I may be just starting out in Flutter, but every line of code I write brings me closer to becoming the developer I aspire to be."</h3>
-</div>
+## 📫 Contact Me  
+
+<p align="center">  
+  <a href="mailto:mariamibrahim23555@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+  <a href="https://linkedin.com/in/mariam_ibrahim"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>  
+</p>
