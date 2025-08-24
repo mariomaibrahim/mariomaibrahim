@@ -1,7 +1,3 @@
-<!-- Header Wave Animation -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20,28&height=150&section=header&text=&fontSize=0" />
-</div>
 
 <!-- Animated Profile Section -->
 <div align="center">
@@ -61,18 +57,7 @@
       <br><small>Cross-platform mobile applications with clean architecture</small>
     </td>
     <td align="center" style="border: none;">
-      <img src="https://user-images.githubusercontent.com/74038190/216644506-6c4c8b5a-0b3c-4ae9-8347-364f5f8e3dc2.gif" width="50"/>
-      <br><strong>Learning</strong>
-      <br><small>Advanced Flutter concepts and best practices</small>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://user-images.githubusercontent.com/74038190/216644507-9c6e5c0a-8e3d-4ae9-8347-364f5f8e3dc2.gif" width="50"/>
-      <br><strong>Growing</strong>
-      <br><small>Preparing for professional opportunities</small>
-    </td>
-  </tr>
-</table>
-
+    </td>table>
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
