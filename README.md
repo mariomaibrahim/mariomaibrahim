@@ -55,8 +55,33 @@
 </div>
 
 ### 🎯 **Current Focus**
-Building innovative cross-platform mobile applications using Flutter framework with emphasis on clean architecture and beautiful user interfaces.
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## 🎯 Current Focus & Goals
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50"/>
+      <br><strong>Building Apps</strong>
+      <br><small>Cross-platform mobile applications with clean architecture</small>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/216644506-6c4c8b5a-0b3c-4ae9-8347-364f5f8e3dc2.gif" width="50"/>
+      <br><strong>Learning</strong>
+      <br><small>Advanced Flutter concepts and best practices</small>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/216644507-9c6e5c0a-8e3d-4ae9-8347-364f5f8e3dc2.gif" width="50"/>
+      <br><strong>Growing</strong>
+      <br><small>Preparing for professional opportunities</small>
+    </td>
+  </tr>
+</table>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
 ### 🛠️ **acquired techniques**
 - **Mobile Development:** Flutter, Dart, Android Studio
 - **Programming Languages:** Python, C++, JavaScript, PHP
