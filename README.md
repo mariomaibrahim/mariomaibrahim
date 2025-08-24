@@ -16,20 +16,43 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 </div>
 
-<h3 align="center">🌟 IT Student 🌟</h3>
-
-<p align="center" style="font-size: 18px; color: #FF69B4; font-weight: bold;">
-	Flutter developer in learning journey, passionate about building mobile applications. Currentlyfocusing on Flutter & Dart fundamentals, state management, and integrating APIs. Eager to start aprofessional career, contribute to real projects, and continuously improve through hands-on practice.
-</p>
- 
-<p align="center">  
- <img src="https://img.shields.io/badge/Focus-Flutter%20Development-FF1493?style=for-the-badge" alt="Focus" />
- <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00D9FF?style=for-the-badge" alt="Status" />
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="center">🌟 IT Student 🌟<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 </div>
 
+<!-- Professional Title -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🌟-IT%20Student%20&%20Flutter%20Developer-FF1493?style=for-the-badge&labelColor=0D1117" alt="Title Badge"/>
+</div>
+
+<br>
+
+<!-- About Me Section -->
+<div align="center" style="margin: 20px 0;">
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px; border: 2px solid #FF1493; border-radius: 10px; background: linear-gradient(135deg, #0D1117 0%, #1a1b27 100%);">
+        <h3 style="color: #FF1493; margin-bottom: 15px;">💫 About Me</h3>
+        <p style="font-size: 16px; color: #FFFFFF; line-height: 1.6; max-width: 600px;">
+          Flutter developer on an exciting learning journey, passionate about building innovative mobile applications. 
+          Currently focusing on <strong>Flutter & Dart fundamentals</strong>, <strong>state management</strong>, and <strong>API integration</strong>. 
+          Eager to start a professional career, contribute to real-world projects, and continuously improve through hands-on practice.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- Status Badges -->
+<p align="center">  
+ <img src="https://img.shields.io/badge/🎯%20Focus-Flutter%20Development-FF1493?style=for-the-badge&labelColor=0D1117" alt="Focus" />
+ <img src="https://img.shields.io/badge/📚%20Status-Learning%20&%20Building-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Status" />
+ <img src="https://img.shields.io/badge/💝%20Passion-Mobile%20Apps-FF69B4?style=for-the-badge&labelColor=0D1117" alt="Passion" />
+</p>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ### 🎯 **Current Focus**
 Building innovative cross-platform mobile applications using Flutter framework with emphasis on clean architecture and beautiful user interfaces.
