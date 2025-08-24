@@ -90,7 +90,7 @@ I’m still a beginner, but I’m building my skills step by step through self-l
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?mariomaibrahim=USERNAME&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ I’m still a beginner, but I’m building my skills step by step through self-l
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?mariomaibrahim=USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
