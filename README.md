@@ -52,7 +52,7 @@
  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80"/>
       <br><strong>Building Apps</strong>
       <br><small>Cross-platform mobile applications with clean architecture</small></div>
-
+<br>
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
