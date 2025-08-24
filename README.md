@@ -34,7 +34,7 @@
 
 ### 🎯 **Current Focus**
 Building innovative cross-platform mobile applications using Flutter framework with emphasis on clean architecture and beautiful user interfaces.
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ### 🛠️ **acquired techniques**
 - **Mobile Development:** Flutter, Dart, Android Studio
 - **Programming Languages:** Python, C++, JavaScript, PHP
@@ -114,13 +114,6 @@ Building innovative cross-platform mobile applications using Flutter framework w
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Animation"/>
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 🎨 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" alt="Dev Quote"/>
-</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
