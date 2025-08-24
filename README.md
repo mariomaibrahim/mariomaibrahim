@@ -14,8 +14,6 @@
 
 <!-- Professional Title -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🌟-IT%20Student%20&%20Flutter%20Developer-FF1493?style=for-the-badge&labelColor=0D1117" alt="Title Badge"/>
-</div>
 
 <br>
 
@@ -58,7 +56,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-### 🛠️ **acquired techniques**
+## 🛠️ acquired techniques
 - **Mobile Development:** Flutter, Dart, Android Studio
 - **Programming Languages:** Python, C++, JavaScript, PHP
 - **Database Management:** MySQL, SQLite, Firebase
