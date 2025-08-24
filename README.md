@@ -48,9 +48,10 @@
 
 
 ## 🎯 Current Focus & Goals
- <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50"/>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80"/>
       <br><strong>Building Apps</strong>
-      <br><small>Cross-platform mobile applications with clean architecture</small>
+      <br><small>Cross-platform mobile applications with clean architecture</small></div>
 
 <!-- Animated Divider -->
 <div align="center">
@@ -121,7 +122,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=00D9FF&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF"/>
 </div>
 
