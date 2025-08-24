@@ -14,9 +14,7 @@
 
 <!-- Professional Title -->
 <div align="center">
-
 <br>
-
 <!-- About Me Section -->
 <div align="center" style="margin: 20px 0;">
   <table>
@@ -45,9 +43,9 @@
 </div>
 
 
-## 🎯 Current Focus & Goals
+## 🎯 Current Focus
 <div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80"/>
+ <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100"/>
       <br><strong>Building Apps</strong>
       <br><small>Cross-platform mobile applications with clean architecture</small></div>
 <br>
@@ -57,13 +55,13 @@
 </div>
 
 ## 🛠️ acquired techniques
+
 - **Mobile Development:** Flutter, Dart, Android Studio
 - **Programming Languages:** Python, C++, JavaScript, PHP
 - **Database Management:** MySQL, SQLite, Firebase
 - **Design & Prototyping:** Figma, Adobe Photoshop
 - **Version Control:** Git, GitHub
 - **Development Tools:** VS Code, Android Studio
-
 
 <!-- Animated Divider -->
 <div align="center">
