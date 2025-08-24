@@ -31,6 +31,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+
+
 ### 🎯 **Current Focus**
 Building innovative cross-platform mobile applications using Flutter framework with emphasis on clean architecture and beautiful user interfaces.
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -114,12 +116,3 @@ Building innovative cross-platform mobile applications using Flutter framework w
 </div>
   
 </div>
-
-<!-- Footer Wave Animation -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20,28&height=150&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=24&fontColor=FFFFFF" />
-</div>
-
----
-
-
