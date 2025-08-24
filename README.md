@@ -1,118 +1,99 @@
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">    
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">    
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">      
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">    <h1 class="animate__animated animate__fadeIn">Hello! I'm Mariam ✨</h1>      
+I'm a passionate IT student at  Borg El Arab University of Technology, currently exploring the world of DevOps, Cloud Infrastructure, and a bit of Cybersecurity.  I'm still at the beginning of my journey, but I'm building a strong foundation through self-learning, practical projects, and curiosity. 🚀    
+---  🌱 Currently Learning
 
-<h1 class="animate__animated animate__fadeIn">Hello! I'm Mariam ✨</h1>    
+🔧 DevOps Path
 
-<img align="right" alt="coding girl" width="300" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif">
+Linux System Administration (Ubuntu, Red Hat)
 
-I'm a passionate IT student at Borg El Arab University of Technology, currently starting my journey in **Flutter Development**.  
-I’m still a beginner, but I’m building my skills step by step through self-learning, practice, and real projects. 🚀  
+Bash Scripting for Automation
 
----
+Docker Basics
 
-🌱 **Currently Learning Flutter Development**
+CI/CD Concepts with GitHub Actions
 
-- Dart Fundamentals  
-- Flutter Basics (Widgets, Layouts, State Management)  
-- Building Responsive UIs  
-- APIs Integration  
-- Database Basics (SQLite, Firebase)  
-- Git & GitHub for Version Control  
-- Mobile Development Tools (Android Studio, VS Code)  
+Cloud Fundamentals (AWS / Azure)
 
----
+Git & GitHub
 
-🛠️ **Technical Skills**
+YAML, Markdown, and Config Files
 
-| Category            | Skills / Tools |
-|---------------------|----------------|
-| Programming         | Python, PHP, C++, Dart |
-| Web Development     | HTML, CSS, JavaScript (Basics) |
-| Mobile Development  | Flutter, Android Studio |
-| Tools               | Git, GitHub, VS Code |
-| Databases           | MySQL, SQLite |
-| Soft Skills         | Teamwork, Problem-Solving, Adaptability |
+🛡️ Cybersecurity Basics
 
----
+Wireshark & Packet Analysis
 
-💡 **Tools & Technologies**
+Nmap for Scanning
 
-<p align="left">  
-  <a href="https://www.cplusplus.com/" target="_blank">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>    
-  </a>    
-  <a href="https://www.w3.org/html/" target="_blank">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>    
-  </a>    
-  <a href="https://www.w3schools.com/css/" target="_blank">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>    
-  </a>    
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>    
-  </a>    
-  <a href="https://www.python.org" target="_blank">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>    
-  </a>    
-  <a href="https://www.php.net" target="_blank">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>    
-  </a>    
-  <a href="https://www.mysql.com/" target="_blank">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>    
-  </a>    
-  <a href="https://dart.dev/" target="_blank">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>    
-  </a>    
-  <a href="https://flutter.dev/" target="_blank">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>    
-  </a>    
-  <a href="https://developer.android.com/studio" target="_blank">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>    
-  </a>    
-  <a href="https://code.visualstudio.com/" target="_blank">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/>    
-  </a>    
-  <a href="https://git-scm.com/" target="_blank">    
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>    
-  </a>    
-  <a href="https://github.com/" target="_blank">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>    
-  </a>    
-</p>    
+Burp Suite (beginner level)
+
+Basic concepts of Vulnerability Assessment
+
+Kali Linux Tools Overview
+
 
 ---
 
-## 📊 GitHub Stats
+🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+Category	Skills / Tools
 
----
+Programming	Python, Bash, Java, C++, PHP
+Web Development	HTML, CSS, JavaScript (Basics)
+DevOps Tools	Git, GitHub, GitHub Actions, Docker (learning)
+Operating Systems	Linux (Ubuntu, Kali), Windows
+Cybersecurity	Wireshark, Nmap, Burp Suite, Autopsy (beginner knowledge)
+Networking	TCP/IP, OSI Model, VPN, Firewalls
+Soft Skills	Teamwork, Problem-Solving, Adaptability, Detail-Oriented
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mariomaibrahim&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
 
 ---
 
-📫 **Contact Me**
+💡 Tools & Technologies
 
-📧 Email: mariamibrahim23555@gmail.com  
+<p align="left">    <a href="https://www.w3schools.com/cpp/" target="_blank">      
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>      
+  </a>      
+  <a href="https://www.w3schools.com/css/" target="_blank">      
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>      
+  </a>      
+  <a href="https://www.figma.com/" target="_blank">      
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>      
+  </a>      
+  <a href="https://git-scm.com/" target="_blank">      
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>      
+  </a>      
+  <a href="https://www.w3.org/html/" target="_blank">      
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>      
+  </a>      
+  <a href="https://www.java.com" target="_blank">      
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>      
+  </a>      
+  <a href="https://www.linux.org/" target="_blank">      
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>      
+  </a>      
+  <a href="https://www.mysql.com/" target="_blank">      
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>      
+  </a>      
+  <a href="https://www.php.net" target="_blank">      
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>      
+  </a>      
+  <a href="https://www.python.org" target="_blank">      
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>      
+  </a>      
+</p>      
+---  📊 GitHub Stats  
+---
 
-💼 LinkedIn: [linkedin.com/in/mariam_ibrahim](https://linkedin.com/in/mariam_ibrahim)  
+📫 Contact Me
+
+📧 Email: mariamibrahim23555@gmail.com
+
+💼 LinkedIn: linkedin.com/in/mariam_ibrahim
+
 
 ---
 
-<div style="border-left: 5px solid #00adb5; background-color: #f0f0f0; padding: 15px 20px; font-style: italic; font-size: 1.2em; margin: 20px 0; border-radius: 10px; color: #333;">    
-  <h3 style="text-align: center;">"I may be a beginner in Flutter, but with every line of code I write, I'm getting closer to becoming a professional mobile developer."</h3>    
-</div>
+<div style="border-left: 5px solid #00adb5; background-color: #f0f0f0; padding: 15px 20px; font-style: italic; font-size: 1.2em; margin: 20px 0; border-radius: 10px; color: #333;">      
+  <h3 style="text-align: center;">"I may be a beginner in DevOps and Cybersecurity, but I'm learning every day—and every command line brings me closer to my goals."</h3>      
+</div> 
