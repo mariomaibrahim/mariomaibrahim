@@ -3,6 +3,8 @@
 
 <h1 class="animate__animated animate__fadeIn">Hello! I'm Mariam ✨</h1>    
 
+<img align="right" alt="coding girl" width="300" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif">
+
 I'm a passionate IT student at Borg El Arab University of Technology, currently starting my journey in **Flutter Development**.  
 I’m still a beginner, but I’m building my skills step by step through self-learning, practice, and real projects. 🚀  
 
@@ -82,7 +84,7 @@ I’m still a beginner, but I’m building my skills step by step through self-l
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariomaibrahim&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 ---
@@ -90,7 +92,7 @@ I’m still a beginner, but I’m building my skills step by step through self-l
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?mariomaibrahim=USERNAME&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=mariomaibrahim&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
@@ -98,7 +100,7 @@ I’m still a beginner, but I’m building my skills step by step through self-l
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?mariomaibrahim=USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariomaibrahim&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
