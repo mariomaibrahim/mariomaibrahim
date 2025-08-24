@@ -31,7 +31,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-
 ### 🎯 **Current Focus**
 Building innovative cross-platform mobile applications using Flutter framework with emphasis on clean architecture and beautiful user interfaces.
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -113,20 +112,6 @@ Building innovative cross-platform mobile applications using Flutter framework w
 <div align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Animation"/>
 </div>
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 💌 Let's Build Something Amazing Together!
-
-<div align="center">
-  
-  **Ready to turn your ideas into beautiful Flutter applications?**
-  
-  [![Contact Me](https://img.shields.io/badge/Contact%20Me-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamibrahim23555@gmail.com)
-  [![Hire Me](https://img.shields.io/badge/Hire%20Me-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-ibrahim-b95743307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200"/>
   
 </div>
 
