@@ -79,9 +79,27 @@ I’m still a beginner, but I’m building my skills step by step through self-l
 
 ---
 
-📊 **GitHub Stats**
+## 📊 GitHub Stats
 
-*(سيتم إضافة إحصائيات GitHub لاحقًا عند وجود مشاريع أكثر)*  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
 
 ---
 
@@ -95,5 +113,4 @@ I’m still a beginner, but I’m building my skills step by step through self-l
 
 <div style="border-left: 5px solid #00adb5; background-color: #f0f0f0; padding: 15px 20px; font-style: italic; font-size: 1.2em; margin: 20px 0; border-radius: 10px; color: #333;">    
   <h3 style="text-align: center;">"I may be a beginner in Flutter, but with every line of code I write, I'm getting closer to becoming a professional mobile developer."</h3>    
-</div>  </h3>  
 </div>
