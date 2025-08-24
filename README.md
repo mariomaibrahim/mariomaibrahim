@@ -32,28 +32,31 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🚀 Quick Overview
+## 👩‍💻 Professional Overview
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-**About Me:**
-- 🎯 Working on **Beautiful Flutter Applications**
-- 🌱 Learning **Advanced Flutter & State Management**
-- 👩‍💻 All projects available at [My Portfolio](https://github.com/mariomaibrahim)
-- 💬 Ask me about **Flutter, Dart, UI/UX Design**
-- 📫 Reach me: **mariamibrahim23555@gmail.com**
-- 📄 Experience: [LinkedIn](https://linkedin.com/in/mariam_ibrahim)
+| **Role** | **Specialization** | **Experience** | **Location** |
+|:--------:|:-----------------:|:-------------:|:------------:|
+| Flutter Developer | Mobile App Development | 2+ Years | Cairo, Egypt |
 
-</td>
-<td>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300"/>
+### 🎯 **Current Focus**
+Building innovative cross-platform mobile applications using Flutter framework with emphasis on clean architecture and beautiful user interfaces.
 
-</td>
-</tr>
-</table>
+### 🛠️ **Core Competencies**
+- **Mobile Development:** Flutter, Dart, Android Studio
+- **Programming Languages:** Python, C++, JavaScript, PHP
+- **Database Management:** MySQL, SQLite, Firebase
+- **Design & Prototyping:** Figma, Adobe Photoshop
+- **Version Control:** Git, GitHub
+- **Development Tools:** VS Code, Android Studio
+
+### 📞 **Professional Contact**
+- **Email:** mariamibrahim23555@gmail.com
+- **LinkedIn:** [linkedin.com/in/mariam_ibrahim](https://linkedin.com/in/mariam_ibrahim)
+- **Portfolio:** [github.com/mariomaibrahim](https://github.com/mariomaibrahim)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -119,115 +122,10 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariomaibrahim&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Animation"/>
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 💫 My Development Philosophy
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" />
-  
-  ### ✨ *"Code with passion, design with purpose"* ✨
-  **🎨 I believe every app should be beautiful and functional**
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400"/>
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 📱 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🎨 **Flutter UI Collection** | Beautiful UI components and screens | Flutter, Dart | ![Active](https://img.shields.io/badge/Status-Active-success) |
-| 📱 **E-Commerce App** | Complete shopping app with payments | Flutter, Firebase | ![Development](https://img.shields.io/badge/Status-In%20Development-yellow) |
-| 🏥 **Healthcare App** | Patient management system | Flutter, MySQL | ![Planning](https://img.shields.io/badge/Status-Planning-blue) |
-| 🎵 **Music Player** | Custom music player with animations | Flutter, Dart | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 📚 Skills & Learning Journey
-
-<div align="center">
-
-```mermaid
-journey
-    title My Flutter Development Journey
-    section Beginner
-      Started Learning Dart: 5: Me
-      First Flutter App: 4: Me
-      UI Components: 3: Me
-    section Intermediate
-      State Management: 4: Me
-      Firebase Integration: 5: Me
-      API Integration: 4: Me
-    section Advanced
-      Custom Animations: 5: Me
-      Performance Optimization: 4: Me
-      Publishing Apps: 5: Me
-```
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 🎯 Current Goals & Future Plans
-
-<table align="center">
-<tr>
-<td align="center">
-
-**🎯 Short Term Goals**
-- ✅ Master Flutter Bloc Pattern
-- 🔄 Learn Flutter Testing
-- 🔄 Build 5 Complete Apps
-- ⏳ Contribute to Open Source
-
-</td>
-<td align="center">
-
-**🚀 Long Term Vision**
-- 🎯 Become Flutter Expert
-- 🌟 Lead Development Teams
-- 📚 Create Flutter Tutorials
-- 🌍 Build Global Impact Apps
-
-</td>
-</tr>
-</table>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 💖 Fun Facts About Me
-
-<div align="center">
-
-🎨 I love creating pixel-perfect UI designs<br>
-☕ Coffee is my coding fuel<br>
-🌸 Pink is my favorite color (obviously!)<br>
-📚 Always learning new technologies<br>
-🎵 I code with music on<br>
-🌙 Night owl developer<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200"/>
-
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
