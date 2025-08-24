@@ -56,8 +56,14 @@
       <br><strong>Building Apps</strong>
       <br><small>Cross-platform mobile applications with clean architecture</small>
     </td>
-    <td align="center" style="border: none;">
-    </td>table>
+  </tr>
+</table>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
