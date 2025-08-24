@@ -12,8 +12,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FF1493&center=true&vCenter=true&width=800&height=100&lines=Hi+There!+👋;I'm+Mariam+Ibrahim;Flutter+Developer+🩷;Mobile+App+Enthusiast+📱;" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 </div>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 </div>
@@ -52,7 +50,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-### 🎯 **Current Focus**
+
 ## 🎯 Current Focus & Goals
 
 <table align="center" style="border: none;">
