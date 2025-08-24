@@ -1,4 +1,4 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+#<h5> 🌟 Welcome to My GitHub Profile! 🌟</h5>
 
 <!-- Header Wave Animation -->
 <div align="center">
@@ -21,11 +21,10 @@
 <h3 align="center">🌟 IT Student 🌟</h3>
 
 <p align="center" style="font-size: 18px; color: #FF69B4; font-weight: bold;">
-	💫 Flutter developer in learning journey, passionate about building mobile applications. Currentlyfocusing on Flutter & Dart fundamentals, state management, and integrating APIs. Eager to start aprofessional career, contribute to real projects, and continuously improve through hands-on practice.
+	Flutter developer in learning journey, passionate about building mobile applications. Currentlyfocusing on Flutter & Dart fundamentals, state management, and integrating APIs. Eager to start aprofessional career, contribute to real projects, and continuously improve through hands-on practice.
 </p>
  
-<p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=mariomaibrahim&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views" /> 
+<p align="center">  
  <img src="https://img.shields.io/badge/Focus-Flutter%20Development-FF1493?style=for-the-badge" alt="Focus" />
  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00D9FF?style=for-the-badge" alt="Status" />
 </p>
@@ -36,7 +35,7 @@
 ### 🎯 **Current Focus**
 Building innovative cross-platform mobile applications using Flutter framework with emphasis on clean architecture and beautiful user interfaces.
 
-### 🛠️ **acquired techniques **
+### 🛠️ **acquired techniques**
 - **Mobile Development:** Flutter, Dart, Android Studio
 - **Programming Languages:** Python, C++, JavaScript, PHP
 - **Database Management:** MySQL, SQLite, Firebase
@@ -79,7 +78,7 @@ Building innovative cross-platform mobile applications using Flutter framework w
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariam_ibrahim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-ibrahim-b95743307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariomaibrahim)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamibrahim23555@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/mariomaibrahim)
@@ -132,7 +131,7 @@ Building innovative cross-platform mobile applications using Flutter framework w
   **Ready to turn your ideas into beautiful Flutter applications?**
   
   [![Contact Me](https://img.shields.io/badge/Contact%20Me-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamibrahim23555@gmail.com)
-  [![Hire Me](https://img.shields.io/badge/Hire%20Me-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariam_ibrahim)
+  [![Hire Me](https://img.shields.io/badge/Hire%20Me-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-ibrahim-b95743307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200"/>
   
@@ -145,9 +144,4 @@ Building innovative cross-platform mobile applications using Flutter framework w
 
 ---
 
-<div align="center">
-  
-  
-  <img src="https://komarev.com/ghpvc/?username=mariomaibrahim&label=Profile%20Views&color=FF1493&style=flat-square" alt="Profile Views"/>
-  
-</div>
+
