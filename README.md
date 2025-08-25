@@ -2,7 +2,7 @@
 
 <!-- 🌸 Animated Header -->
 <div align="center">
-  <img width="50%" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25qeXlja3F2eGhvenp1eHM1ZTQxYzIxOTRscmVrM29pZXA1cHExMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+  <img width="60%" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25qeXlja3F2eGhvenp1eHM1ZTQxYzIxOTRscmVrM29pZXA1cHExMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </div>
 
 <!-- ✨ Typing Intro -->
